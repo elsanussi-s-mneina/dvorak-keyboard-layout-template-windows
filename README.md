@@ -7,8 +7,6 @@ The current .klc file is made using Microsoft Keyboard Layout Creator 1.4 on Win
 ## Current Status
 ### Implemented
 - lowercase letters
-
-### Not implemented yet
 - shift key
 
 ## History
